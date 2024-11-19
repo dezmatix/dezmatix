@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi name is Desmond MacAuley:
 🏗 I’m currently working on: Integrating Veracode scanning with Azure DevOps pipelines, resolving discrepancies in reports, and building a secure S3 bucket module for Elastic log retrieval.<br><br>🤝 I’m looking to collaborate on: Automating security compliance pipelines, cloud security solutions (AWS, Azure), and DevSecOps best practices.<br><br>🛠 I’m looking for help with: Optimizing Prisma Cloud integrations for compliance reporting, and enhancing automation for Veracode and other security tools.<br><br>🌱 I’m currently learning: Advanced CI/CD pipeline configurations, securing cloud infrastructures, and integrating AI models into DevSecOps environments.<br><br>💬 Ask me about: Cloud security (AWS, Azure), automating DevSecOps pipelines, and integrating security scanning tools like Veracode and Prisma Cloud.<br><br>⚡ Fun fact: I’ve set up multiple cloud security pipelines and I’m also working on automating compliance and log management for DevSecOps environments.
 
 
